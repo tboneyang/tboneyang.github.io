@@ -1,0 +1,12 @@
+# Site settings
+title: Tom Yang
+email: tomyang@domain.com
+description: ""
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tboneyang.github.io" # the base hostname & protocol for your site
+twitter_username: tomlyang
+github_username:  tboneyang
+
+# Build settings
+markdown: kramdown
+permalink: :title
