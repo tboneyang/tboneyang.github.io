@@ -143,9 +143,6 @@ font-family: "Roboto Slab";
 
 .page-content {
   padding: 70px 0;
-  background-image: url("/assets/setting.jpg");
-  background-size: cover;
-  height:700px;
 }
 
 .page-content a:hover{
