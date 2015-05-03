@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 4
+title: Gauntlet
+date: 2014-07-15
+img: /gauntlet.png
+alt: image-alt
+project-date: April 2014
+client: HackUpstate
+category: Web Development
+description: Gauntlet provides a platform for anyone to submit an internet challenge and for random people to accept those challenges through video submissions.<br>For example, a user may write, "Burp the Alphabet." Through Ziggeo API incorporation, users may easily submit video's of their burping and allow other users to comment/upvote their submissions. This way, everyone will know who reigns supreme in the weirdest of skills/talents you can only find on the internet. The source code can be found <a href="https://github.com/tboneyang/gauntlet">here</a></p> <br> <img src="img/portfolio/gauntlet1.png" class="img-responsive img-centered"></img> <br> <img src="img/portfolio/gauntlet2.png" class="img-responsive img-centered"></img>
+
+---
