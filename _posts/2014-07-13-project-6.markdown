@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 6
+title: Lifting App To Be Named
+date: 2014-07-15
+img: lift.jpg
+alt: image-alt
+project-date: January 2015
+client: RCOS
+category: IOS Development
+description: I am currently working on a modern weight-training application. It has one purpose; to maximize your gains. The UI and UX will streamline specific muscle targeted workouts. Coming soon...
+
+---

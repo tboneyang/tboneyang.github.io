@@ -1,0 +1,47 @@
+# Site settings
+title: Tom Yang
+email: tboneyang@gmail.com
+url: tomlyang.me
+description: "I solve problems with tech. Check out some of my projects below"
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 80B3FF
+  secondary: 333333
+  secondary-dark: 222222
+
+# Footer settings
+footer:
+  #copyright: Dr. Henry Jekyll
+  #location: Location
+  #social: Around the Web
+  #credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/TomLYang
+  - title: facebook
+    url: https://www.facebook.com/thomas.l.yang
+
+  #- title: stack-overflow
+  #  url: http://stackoverflow.com/questions/tagged/jekyll
+  #- title: bitbucket
+  #  url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/tboneyang
+
+# Postal address (add as many lines as necessary)
+#address:
+#  - line: 3481 Melrose Place
+#  - line: Beverly Hills, CA 90210
+
+# Credits content
+#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
