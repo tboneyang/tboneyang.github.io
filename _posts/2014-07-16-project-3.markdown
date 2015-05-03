@@ -8,6 +8,6 @@ alt: image-alt
 project-date: January 2014
 client: Freelance
 category: Web Development
-description: RiftSpeak is a platform that improves champion-select and enables in-game voice-chat for the MOBA, League of Legends.
+description: RiftSpeak is a platform that improves champion-select and enables in-game voice-chat for the MOBA, League of Legends. Powered by NodeJS and WebRTC.
 
 ---
