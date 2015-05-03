@@ -1,5 +1,6 @@
 # Site settings
 title: Tom Yang
+<<<<<<< HEAD
 email: tboneyang@gmail.com
 url: tomlyang.me
 description: "I solve problems with tech. Check out some of my projects below"
@@ -45,3 +46,15 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+=======
+email: tomyang@domain.com
+description: ""
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tboneyang.github.io" # the base hostname & protocol for your site
+twitter_username: tomlyang
+github_username:  tboneyang
+
+# Build settings
+markdown: kramdown
+permalink: :title
+>>>>>>> 43aa4407a0ecac6371f785ef196c11463ac19d41
