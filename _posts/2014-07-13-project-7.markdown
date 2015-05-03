@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 6
+title: YumYum
+date: 2014-07-15
+img: yumyum.png
+alt: image-alt
+project-date: January 2014
+client: RCOS
+category: Ruby on Rails
+description: College Students are poor and need food... Let's help them find FREE FOOD! Click <a href="https://rpiyumyum.herokuapp.com/">here</a> if you're a hungry student at RPI! Source code can be found <a href="https://github.com/tboneyang/YumYum">here</a>.
+
+---
