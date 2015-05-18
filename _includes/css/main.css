@@ -84,9 +84,12 @@ hr.star-primary:after {
 }
 
 header {
+    margin-top:50px;
     text-align: center;
     color: #fff;
-    background: #{{ site.color.primary }};
+    background: url("/img/blacknwhitecandid.jpg");
+    background-size:cover;
+    min-height:100vh;
 }
 
 header .container {
@@ -124,6 +127,9 @@ header .intro-text .skills {
 
     header .intro-text .skills {
         font-size: 1.75em;
+        maximum-width:200px;
+        float:right;
+        color:black;
     }
 }
 
@@ -172,6 +178,10 @@ header .intro-text .skills {
 .navbar-default,
 .navbar-inverse {
     border: 0;
+}
+
+.navbar{
+  background:#1f1f1f;
 }
 
 section {
