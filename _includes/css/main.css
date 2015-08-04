@@ -89,7 +89,7 @@ header {
     color: #fff;
     background: url("/img/blacknwhitecandid.jpg");
     background-size:cover;
-    min-height:100vh;
+    min-height:130vh;
 }
 
 header .container {
