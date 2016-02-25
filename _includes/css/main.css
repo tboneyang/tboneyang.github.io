@@ -4,8 +4,25 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+ #portfolio .portfolio-item .portfolio-link .caption:hover {
+    opacity: .1 !important;
+}
+
+ .navbar-fixed-top, .navbar-fixed-bottom{
+    position:absolute;
+ }
+
+ .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus{
+    color:#777;
+ }
+
+ .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus{
+    color:#777;
+ }
+
 body {
     overflow-x: hidden;
+    font-family:"Helvetica Neue" !important;
 }
 
 p {
@@ -32,7 +49,7 @@ h4,
 h5,
 h6 {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    //font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
 
@@ -53,7 +70,7 @@ hr.star-primary:after {
     position: relative;
     top: -.8em;
     padding: 0 .25em;
-    font-family: FontAwesome;
+    font-family: "Helvetica Neue";
     font-size: 2em;
 }
 
@@ -84,12 +101,13 @@ hr.star-primary:after {
 }
 
 header {
-    margin-top:6rem;
+    margin-top:0px;
     text-align: center;
     color: #fff;
-    background: url("/img/blacknwhitecandid.jpg");
+    background: url("/img/bnwlima.jpg");
     background-size:cover;
-    min-height:130vh;
+    background-position: center bottom;
+    min-height:80vh;
 }
 
 header .container {
@@ -105,7 +123,7 @@ header img {
 header .intro-text .name {
     display: block;
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
 }
@@ -143,6 +161,7 @@ header .intro-text .skills {
 
     .navbar-fixed-top .navbar-brand {
         font-size: 1.5em;
+        color:black;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -159,7 +178,7 @@ header .intro-text .skills {
 
 .navbar {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
 
@@ -181,7 +200,10 @@ header .intro-text .skills {
 }
 
 .navbar{
-  background:#1f1f1f;
+  background:none;
+}
+.navbar-default .navbar-nav>li>a{
+    color:black;
 }
 
 .quote{
@@ -204,7 +226,7 @@ section {
 
 section h2 {
     margin: 0;
-    font-size: 3em;
+    font-size: 2em;
 }
 
 section.success {
